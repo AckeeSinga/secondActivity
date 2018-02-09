@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">secondActivity</string>
+    <string name="saludo">WeedNostic</string>
+    <string name="boton">Get In</string>
+    <string name="segundotext">X-Ray Text</string>
+    <string name="boton2">Camera</string>
+</resources>

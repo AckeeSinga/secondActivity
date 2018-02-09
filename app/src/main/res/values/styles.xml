@@ -1,0 +1,66 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="stylo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#f4f4f7</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#82a124</item>
+    </style>
+
+    <style name="backgrounbuton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#97b736</item>
+        <item name="android:textColor">#f4f4f7</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="stylo2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#f4f4f7</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#8f50cf</item>
+    </style>
+
+    <style name="segundotext">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#f4f4f7</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#7736b7</item>
+    </style>
+
+    <style name="intro">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#f4f4f7</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#96cc29</item>
+    </style>
+
+    <style name="mostrar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#f4f4f7</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">#a95ff4</item>
+    </style>
+
+
+
+</resources>
